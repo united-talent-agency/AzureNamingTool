@@ -33,7 +33,7 @@
     "enabled": true,
     "sortOrder": 4,
     "minlength": "1",
-    "maxlength": "3"
+    "maxlength": "12"
   },
   {
     "id": 8,
